@@ -1,6 +1,6 @@
 # Tkslok Watcher → Discord Notifier
 
-A simple Python watcher that monitors [tkslok.pl/page/7](https://tkslok.pl/page/7/) for specific keywords and sends notifications to a Discord channel via webhook.
+A simple Python watcher that monitors [tkslok.pl/](https://tkslok.pl/) for specific keywords and sends notifications to a Discord channel via webhook.
 
 ## Features
 - Scrapes the page and searches for custom keywords (case-insensitive).
